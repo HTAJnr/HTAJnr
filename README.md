@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development, Java, Android...
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me <htajnrfuture@gmail.com/> or <@HTAJnr/> => on All Social Medias.
+- 📫 How to reach me [Main Mail](htajnrfuture@gmail.com) or [@HTAJnr](https://github.com/HTAJnr) => on All Social Medias.
 
 <!---
 HTAJnr/HTAJnr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
